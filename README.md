@@ -10,14 +10,15 @@
 
 ## File structure
 
-\_Recipe-Website
-|\_index.html(main page of the website)
+Recipe-Website
 |
-|\_about.html(talks about where the dishes came from)
+|**\_index.html(main page of the website)
 |
-|\_images(contains images to be used in the website)
-|\_ugali.jpg
-|\_sukuma.jpg
-|\_nyamachoma.jpg
-|fullmeal.gif
-
+|**about.html(talks about where the dishes came from)
+|
+|**images(contains images to be used in the website)
+|
+|**ugali.jpg
+|**sukuma.jpg
+|**nyamachoma.jpg
+|\_\_fullmeal.gif
